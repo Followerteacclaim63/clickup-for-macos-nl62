@@ -1,4 +1,4 @@
-#  
+#  ClickUp for macOS exclusive Plugin: OCR scanning & cloud backup is the best ClickUp for macOS plugin, featuring OCR scanning and cloud backup. Safe, efficient, and optimized for
 
 
 
